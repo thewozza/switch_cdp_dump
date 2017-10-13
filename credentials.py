@@ -1,0 +1,6 @@
+username = "username"
+password = "password"
+secret = "secret"
+controller = "IP"
+controller_u = "controller_username"
+controller_p = "controller_password"
